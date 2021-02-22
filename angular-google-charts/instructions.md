@@ -4,11 +4,11 @@
 ```yaml
 npm i angular-google-charts
 ```  
-[IMAGEM]
+![](https://github.com/SabrinaKaren/angular-helper/blob/master/angular-google-charts/assets/01.png)
 ##
 
 2º) Importar GoogleChartsModule no app.module.ts:  
-[IMAGEM]
+![](https://github.com/SabrinaKaren/angular-helper/blob/master/angular-google-charts/assets/02.png)
 ##
 
 3º) Verificar se após a importação a aplicação está subindo:  
