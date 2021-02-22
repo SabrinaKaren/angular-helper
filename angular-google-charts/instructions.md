@@ -21,13 +21,13 @@ No browse:
 4º) Adicionar a tag no HTML. Trecho de exemplo:
 ```yaml
 <google-chart #chart
-	[data]="generalData"
-	[columns]="generalColumns"
-	[width]="generalWidth"
-	[height]="generalHeight"
-	[type]="pieType"
-	[title]="pieTitle"
-	[options]="pieOptions">
+  [data]="generalData"
+  [columns]="generalColumns"
+  [width]="generalWidth"
+  [height]="generalHeight"
+  [type]="pieType"
+  [title]="pieTitle"
+  [options]="pieOptions">
 </google-chart>
 ```  
 ##
