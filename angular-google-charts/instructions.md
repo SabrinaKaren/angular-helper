@@ -12,10 +12,10 @@ npm i angular-google-charts
 ##
 
 3º) Verificar se após a importação a aplicação está subindo:  
-[IMAGEM]
+![](https://github.com/SabrinaKaren/angular-helper/blob/master/angular-google-charts/assets/03.png)
 
 No browse:  
-[IMAGEM]
+![](https://github.com/SabrinaKaren/angular-helper/blob/master/angular-google-charts/assets/04.png)
 ##
 
 4º) Adicionar a tag no HTML. Trecho de exemplo:
