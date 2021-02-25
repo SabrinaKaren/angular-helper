@@ -52,3 +52,6 @@ pieOptions = {};
 
 6º) Com pequenos ajustes no componente padrão, temos o seguinte resultado:  
 ![](https://github.com/SabrinaKaren/angular-helper/blob/master/angular-google-charts/assets/05.png)
+
+> Resultado em vídeo:
+![]()
