@@ -35,11 +35,11 @@ No browse:
 5º) Configurar os valores no javaScript/typeScript. Trecho de exemplo:
 ```yaml
 generalData = [
-	['Sul', 18.2],
-	['Centro-Oeste', 10.7],
-	['Norte', 11.2],
-	['Nordeste', 23.5],
-	['Sudeste', 36.4]
+  ['Sul', 18.2],
+  ['Centro-Oeste', 10.7],
+  ['Norte', 11.2],
+  ['Nordeste', 23.5],
+  ['Sudeste', 36.4]
 ];
 generalColumns = ['Região', 'Porcentagem'];
 generalWidth = 700;
@@ -51,4 +51,4 @@ pieOptions = {};
 ##
 
 6º) Com pequenos ajustes no componente padrão, temos o seguinte resultado:  
-[IMAGEM]
+![](https://github.com/SabrinaKaren/angular-helper/blob/master/angular-google-charts/assets/05.png)
