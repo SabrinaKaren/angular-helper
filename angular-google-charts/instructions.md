@@ -14,7 +14,7 @@ npm i angular-google-charts
 3º) Verificar se após a importação a aplicação está subindo:  
 ![](https://github.com/SabrinaKaren/angular-helper/blob/master/angular-google-charts/assets/03.png)
 
-No browse:  
+No browser:  
 ![](https://github.com/SabrinaKaren/angular-helper/blob/master/angular-google-charts/assets/04.png)
 ##
 
@@ -54,4 +54,4 @@ pieOptions = {};
 ![](https://github.com/SabrinaKaren/angular-helper/blob/master/angular-google-charts/assets/05.png)
 
 > Resultado em vídeo:
-![]()
+![](https://github.com/SabrinaKaren/angular-helper/blob/master/angular-google-charts/assets/06_in_gif.gif)
