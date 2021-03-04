@@ -57,3 +57,5 @@ pieOptions = {};
 ![](https://github.com/SabrinaKaren/angular-helper/blob/master/angular-google-charts/assets/06_in_gif.gif)
 ##
 > Recomendo sempre ler e seguir a documentação oficial do package, disponível em: [https://www.npmjs.com/package/angular-google-charts](https://www.npmjs.com/package/angular-google-charts).
+##
+> O projetinho construído para registro destes passos pode ser acessado em: [https://github.com/SabrinaKaren/angular-projects/tree/master/charts](https://github.com/SabrinaKaren/angular-projects/tree/master/charts).
