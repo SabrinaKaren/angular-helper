@@ -39,7 +39,7 @@ sonar.exclusions=**/node_modules/**
 sonar.login=admin
 sonar.password=admin
 ```
-A título de informação, este conteúdo está na [documentação](https://docs.sonarqube.org/latest/analyzing-source-code/scanners/sonarscanner/), só "descomentamos" as propriedades colocando _key_ e _name_. As propriedades `sonar.host.url`, `sonar.exclusions`, `sonar.login` e `sonar.password` foram adicionadas.
+A título de informação, este conteúdo está na [documentação](https://docs.sonarqube.org/latest/analyzing-source-code/scanners/sonarscanner/), só "descomentamos" as propriedades colocando _key_ e _name_. E as propriedades `sonar.host.url`, `sonar.exclusions`, `sonar.login` e `sonar.password` foram adicionadas.
 ##
 > Agora precisamos realizar a execução. É possível fazer manualmente, mas existe um repositório que envolve o SonarScanner, facilitando esta etapa: https://docs.sonarqube.org/latest/analyzing-source-code/scanners/sonarscanner/.
 
@@ -60,5 +60,5 @@ npm run sonar
 > A partir deste momento o seu projeto deve aparecer no dashboard principal do Sonar que está rodando na sua máquina!
 
 7°) Acesse a url principal: http://localhost:9000, e procure pelo seu projeto. No caso do código usado neste tutorial no passo 4, um card com um título "CRUD Produtos" deve aparecer.  
-identificando o projeto e clicando nele, você será direcionado para o dashboard dele. Na aba "Overall Code" é possível ver a quantidade de bugs, vulnerabilidades, security hotspots, code smells e etc de todo o scanner do seu projeto.
+Identificando o projeto e clicando nele, você será direcionado para o dashboard dele. Na aba "Overall Code" é possível ver a quantidade de bugs, vulnerabilidades, security hotspots, code smells e etc de todo o scanner do seu projeto.
 > Agora mãos na massa! Bora corrigir todos estes problemas encontrados no scanner. Basta fazer as atuações necessárias no código e rodar o comando de scanner novamente (passo 6).
